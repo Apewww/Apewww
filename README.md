@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rafly Anggara Putra!
 
-<!--
-**Apewww/Apewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Informatics student from Cimahi, Indonesia.  
+💻 I’m interested in **backend web development**, especially using **Flask**, **MySQL**, and **Redis**.  
+🎮 In my free time, I enjoy playing games and experimenting with new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Java  
+- **Frameworks:** Flask, FastAPI  
+- **Databases:** MySQL, Redis  
+- **Tools:** Visual Studio, VS Code, Git, Postman
+
+---
+
+## 🌱 Currently Learning
+- API Development with Flask  
+- Real-time chat apps using Redis  
+- AI integration for web apps  
+
+---
+
+## 📊 GitHub Stats
+![Rafly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raflyanggara&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyanggara&layout=compact&theme=tokyonight)
+
+---
+
+⭐ **Thanks for visiting my profile!**
