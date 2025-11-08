@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Teknologi yang Dikuasai
-- **Bahasa Pemrograman:** Python, C++, Java  
+- **Bahasa Pemrograman:** Python, C++, Java, JS, PHP
 - **Framework:** Flask, FastAPI  
 - **Database:** MySQL, Redis  
 - **Tools & IDE :** Visual Studio, VS Code, Git, Postman  
