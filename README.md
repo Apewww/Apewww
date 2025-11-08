@@ -10,7 +10,7 @@
 - **Bahasa Pemrograman:** Python, C++, Java, JS, PHP
 - **Framework:** Flask, FastAPI, React, Next JS, CodeIgniter, Django
 - **Database:** MySQL, Postgre, SQL Server, Firebase, Redis  
-- **Tools & IDE :** Visual Studio, VS Code, Git, Postman  
+- **Tools & IDE :** Visual Studio, VS Code, Git, Cursor, Postman  
 
 ---
 
