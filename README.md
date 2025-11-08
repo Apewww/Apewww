@@ -9,7 +9,7 @@
 ## 🛠️ Teknologi yang Dikuasai
 - **Bahasa Pemrograman:** Python, C++, Java, JS, PHP
 - **Framework:** Flask, FastAPI, React, Next JS, CodeIgniter, Django
-- **Database:** MySQL, Redis  
+- **Database:** MySQL, Postgre, SQL Server, Firebase, Redis  
 - **Tools & IDE :** Visual Studio, VS Code, Git, Postman  
 
 ---
