@@ -1,30 +1,30 @@
-# 👋 Hi there, I'm Rafly Anggara Putra!
+# 👋 Halo, saya Rafly Anggara Putra!
 
-🎓 I'm an Informatics student from Cimahi, Indonesia.  
-💻 I’m interested in **backend web development**, especially using **Flask**, **MySQL**, and **Redis**.  
-🎮 In my free time, I enjoy playing games and experimenting with new technologies.
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, Java  
-- **Frameworks:** Flask, FastAPI  
-- **Databases:** MySQL, Redis  
-- **Tools:** Visual Studio, VS Code, Git, Postman
+🎓 Saya adalah mahasiswa Informatika Universitas Jenderal Achmad Yani asal **Cimahi, Indonesia**.  
+💻 Saya memiliki ketertarikan di bidang **pengembangan web backend**, terutama menggunakan **Flask**, **MySQL**, dan **Redis**.  
+🎮 Di waktu luang, saya senang bermain game dan bereksperimen dengan berbagai teknologi baru.
 
 ---
 
-## 🌱 Currently Learning
-- API Development with Flask  
-- Real-time chat apps using Redis  
-- AI integration for web apps  
+## 🛠️ Teknologi yang Dikuasai
+- **Bahasa Pemrograman:** Python, C++, Java  
+- **Framework:** Flask, FastAPI  
+- **Basis Data:** MySQL, Redis  
+- **Alat & Editor:** Visual Studio, VS Code, Git, Postman  
 
 ---
 
-## 📊 GitHub Stats
-![Rafly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raflyanggara&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyanggara&layout=compact&theme=tokyonight)
+## 🌱 Sedang Dipelajari
+- Pengembangan API menggunakan Flask  
+- Pembuatan aplikasi chat real-time dengan Redis  
+- Integrasi AI untuk aplikasi web  
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 📊 Statistik GitHub
+![Statistik GitHub Rafly](https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=tokyonight)
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=tokyonight)
+
+---
+
+⭐ **Terima kasih sudah mengunjungi profil saya!**
