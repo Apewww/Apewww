@@ -1,7 +1,7 @@
 # 👋 Halo, saya Rafly Anggara Putra!
 
 🎓 Saya adalah mahasiswa Informatika Universitas Jenderal Achmad Yani asal **Cimahi, Indonesia**.  
-💻 Saya memiliki ketertarikan di bidang **pengembangan web backend**, terutama menggunakan **Flask**, **MySQL**, dan **Redis**.  
+💻 Saya memiliki ketertarikan di bidang **pengembangan web backend**, terutama menggunakan **Flask**, **MySQL**, **Redis**, dan **N8N**.  
 🎮 Di waktu luang, saya senang bermain game dan bereksperimen dengan berbagai teknologi baru.
 
 ---
@@ -9,8 +9,8 @@
 ## 🛠️ Teknologi yang Dikuasai
 - **Bahasa Pemrograman:** Python, C++, Java  
 - **Framework:** Flask, FastAPI  
-- **Basis Data:** MySQL, Redis  
-- **Alat & Editor:** Visual Studio, VS Code, Git, Postman  
+- **Database:** MySQL, Redis  
+- **Tools & IDE :** Visual Studio, VS Code, Git, Postman  
 
 ---
 
