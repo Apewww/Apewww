@@ -27,4 +27,13 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" alt="Starstruck Badge">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100" alt="Arctic Code Vault Contributor">
+</p>
+
+
 ⭐ **Terima kasih sudah mengunjungi profil saya!**
