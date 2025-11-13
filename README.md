@@ -22,9 +22,10 @@
 ---
 
 ## 📊 Statistik GitHub
-![Statistik GitHub Rafly](https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=tokyonight)
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=tokyonight)
-
+<div style="text-align: center;">
+  ![Statistik GitHub Rafly](https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=tokyonight)
+  ![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=tokyonight)
+</div>
 ---
 
 ## 🏆 GitHub Achievements
