@@ -26,15 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=tokyonight" alt="Statistik GitHub Rafly" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=tokyonight" alt="Bahasa Teratas" />
 </p>
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" alt="Starstruck Badge">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100" alt="Arctic Code Vault Contributor">
-</p>
-
-
-⭐ **Terima kasih sudah mengunjungi profil saya!**
