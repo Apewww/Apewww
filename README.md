@@ -20,9 +20,3 @@
 - Integrasi AI untuk aplikasi web  
 
 ---
-
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=tokyonight" alt="Statistik GitHub Rafly" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=tokyonight" alt="Bahasa Teratas" />
-</p>
