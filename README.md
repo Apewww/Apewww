@@ -10,7 +10,7 @@
 ## ⚡ About Me
 Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** yang berbasis di Cimahi, Indonesia. Saya memiliki gairah besar dalam membangun sistem backend yang efisien dan mencoba berbagai alur kerja otomatisasi.
 
-- 🎓 **Education:** Informatics Engineering (NIM: 2450081063)
+- 🎓 **Education:** Informatics Engineering
 - 🔭 **Current Focus:** Deep diving into Flask, Redis, and Workflow Automation with n8n.
 - 🚀 **Projects:** Building iTrend (E-commerce) and various Discord bots (Chat Assistant & AstolfoBot).
 - 🎮 **Hobbies:** Gaming & experimenting with new tech stacks.
