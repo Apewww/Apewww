@@ -50,9 +50,9 @@ Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** 
 ---
 
 ## 🌱 Let's Connect!
-- **Portfolio:** [Check out my work here!](https://portofolio-tailwind-seven.vercel.app/)
-- **Discord:** [Rafly's Discord Profile](https://discord.com/users/695513585639620629)
-- **LinkedIn:** [Your LinkedIn Link Here]
+- **Portfolio:** [My Porto](https://portofolio-tailwind-seven.vercel.app/)
+- **Discord:** [iscord Profile](https://discord.com/users/695513585639620629)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/rafly-anggara-putra/)
 
 ---
 
