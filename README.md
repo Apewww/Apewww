@@ -18,9 +18,6 @@
 
 ---
 
-## 🌱 Sedang Dipelajari
-- Pengembangan API menggunakan Flask  
-- Pembuatan aplikasi chat real-time dengan Redis  
-- Integrasi AI untuk aplikasi web  
-
+## 🌱 Portofolio
+[****](https://portofolio-tailwind-seven.vercel.app/)
 ---
