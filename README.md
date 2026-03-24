@@ -19,5 +19,5 @@
 ---
 
 ## 🌱 Portofolio
-[****](https://portofolio-tailwind-seven.vercel.app/)
+[**My Portofolio**](https://portofolio-tailwind-seven.vercel.app/)
 ---
