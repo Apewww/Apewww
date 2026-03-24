@@ -1,23 +1,61 @@
-# 👋 Halo, saya Rafly Anggara Putra!
+# Hi there, I'm Rafly Anggara Putra 👋 
+### University Student | Backend Enthusiast | Automation Explorer
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Apewww.Apewww&"  />
 </div>
 
-🎓 Saya merupakan mahasiswa Informatika Universitas Jenderal Achmad Yani asal **Cimahi, Indonesia**.  
-💻 Saya memiliki ketertarikan pada bidang **pengembangan web backend**, terutama menggunakan **Flask**, **MySQL**, **Redis**, dan **N8N**.  
-🎮 Di waktu luang, saya suka bermain game dan bereksperimen dengan berbagai teknologi baru.
+---
+
+## ⚡ About Me
+Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** yang berbasis di Cimahi, Indonesia. Saya memiliki gairah besar dalam membangun sistem backend yang efisien dan mencoba berbagai alur kerja otomatisasi.
+
+- 🎓 **Education:** Informatics Engineering (NIM: 2450081063)
+- 🔭 **Current Focus:** Deep diving into Flask, Redis, and Workflow Automation with n8n.
+- 🚀 **Projects:** Building iTrend (E-commerce) and various Discord bots (Chat Assistant & AstolfoBot).
+- 🎮 **Hobbies:** Gaming & experimenting with new tech stacks.
 
 ---
 
-## 🛠️ Memiliki pengalaman pada Teknologi
-- **Bahasa Pemrograman:** Python (Main Language), C++, Java, JS, PHP
-- **Framework:** Flask, FastAPI, React, Next JS, CodeIgniter, Django
-- **Database:** MySQL, Postgre, SQL Server, Firebase, Redis  
-- **Tools & IDE :** Visual Studio, VS Code, Git, Cursor, Antigravity, Postman  
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Frameworks & Backend
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🗄️ Database & Others
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## 🌱 Portofolio
-[**My Portofolio**](https://portofolio-tailwind-seven.vercel.app/)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=radical" alt="Rafly's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
+
+## 🌱 Let's Connect!
+- **Portfolio:** [Check out my work here!](https://portofolio-tailwind-seven.vercel.app/)
+- **Discord:** [Rafly's Discord Profile](https://discord.com/users/695513585639620629)
+- **LinkedIn:** [Your LinkedIn Link Here]
+
+---
+
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>
