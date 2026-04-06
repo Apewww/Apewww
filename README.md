@@ -12,7 +12,7 @@ Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** 
 
 - 🎓 **Education:** Informatics Engineering
 - 🔭 **Current Focus:** Deep diving into Flask, Redis, and Workflow Automation with n8n.
-- 🚀 **Projects:** Building Discord bots (Chat Assistant & AstolfoBot).
+- 🚀 **Projects:** Building Discord bots/Web
 - 🎮 **Hobbies:** Gaming & experimenting with new tech stacks.
 
 ---
