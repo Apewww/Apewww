@@ -43,8 +43,9 @@ Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=radical" alt="Rafly's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Apewww&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rafly's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Apewww&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="[https://streak-stats.demolab.com/?user=Apewww&theme=dark&hide_border=false](https://github-readme-stats.shion.dev/api/top-langs/?username=Apewww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="Top Languages" />
 </p>
 
 ---
