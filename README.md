@@ -1,58 +1,50 @@
-# Hi there, I'm Rafly Anggara Putra 👋 
-### University Student | Backend Enthusiast | Automation Explorer | DevOps Explorer
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Apewww.Apewww&"  />
-</div>
-
----
-
-## ⚡ About Me
-Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** yang berbasis di Cimahi, Indonesia. Saya memiliki ketertarikan besar dalam membangun sistem backend yang efisien dan mencoba berbagai alur kerja otomatisasi.
-
-- 🎓 **Education:** Informatics Engineering.
-- 🔭 **Current Focus:** Deep diving into Flask, Redis, and Workflow Automation with n8n.
-- 🚀 **Projects:** Building Discord bot and Website.
-- 🎮 **Hobbies:** Gaming & experimenting with new tech stacks / Automation.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🌐 Frameworks & Backend
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🗄️ Database & Others
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Apewww&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rafly's GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Apewww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Apewww&theme=dark&hide_border=false" alt="Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%B1%2C+I'm+Rafly+Anggara+Putra;Informatics+Student;Backend+%26+Fullstack+Enthusiast;Building+Awesome+Web+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://cuacakita.raflylabs.com">🌐 Weather App</a> •
+  <a href="#-tech-stack">🛠 Tech Stack</a> •
+  <a href="#-github-stats">📊 Stats</a>
 </p>
 
 ---
 
-## 🌱 Let's Connect!
-- **Portfolio:** [My Porto](https://raflylabs.com/)
-- **Discord:** [Discord Profile](https://discord.com/users/695513585639620629)
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/rafly-anggara-putra/)
+### 🚀 About Me
+- 🎓 **Informatics Student** with a strong passion for Backend Systems, API Optimization, and Web Development.
+- 🛠 Currently working on microservices, database optimizations, and web applications.
+- ⚙️ Love tweaking Linux server environments, proxies, and automation scripts.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Apewww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apewww&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apewww&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"Always learning, always building."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
