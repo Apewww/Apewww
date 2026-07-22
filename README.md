@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raflylabs.com/assets/img/banner1.svg" width="100%" alt="Rafly Anggara Putra banner" />
+  <img src="https://raflylabs.com/assets/img/banner.svg" width="100%" alt="Rafly Anggara Putra banner" />
 </div>
 
 ---
