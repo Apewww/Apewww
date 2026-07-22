@@ -4,13 +4,9 @@
 
 ---
 
-## ⚡ About Me
-Saya adalah mahasiswa **Informatika** dari **Universitas Jenderal Achmad Yani** yang berbasis di Cimahi, Indonesia. Saya memiliki ketertarikan besar dalam membangun sistem backend yang efisien dan mencoba berbagai alur kerja otomatisasi.
-
-- 🎓 **Education:** Informatics Engineering.
-- 🔭 **Current Focus:** Deep diving into Flask, Redis, and Workflow Automation with n8n.
-- 🚀 **Projects:** Building Discord bot and Website.
-- 🎮 **Hobbies:** Gaming & experimenting with new tech stacks / Automation.
+<p align="center">
+  <img src="./assets/banner2.svg" alt="GitHub Profile Banner" width="100%">
+</p>
 
 ---
 
