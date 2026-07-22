@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raflylabs.com/assets/img/banner1.svg" width="100%" alt="Rafly Anggara Putra banner" />
-</div>
+<p align="center">
+  <img src="./banner.jpg" alt="GitHub Profile Banner" width="100%">
+</p>
 
 ---
 
