@@ -1,0 +1,141 @@
+<svg fill="none" width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+      fill: #f8fafc;
+      letter-spacing: 0.5px;
+    }
+
+    .subtitle {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-weight: 500;
+      font-size: 16px;
+      fill: #94a3b8;
+    }
+
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #f8fafc;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+
+    @keyframes pulse-wave {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.6; }
+    }
+
+    .floating { animation: float 4s ease-in-out infinite; }
+    .floating-delay { animation: float 4s ease-in-out 2s infinite; }
+    .wave { animation: pulse-wave 5s ease-in-out infinite; }
+  </style>
+
+  <!-- base card -->
+  <rect width="900" height="220" rx="16" fill="url(#bg-grad)" stroke="#334155" stroke-width="1.5" />
+
+  <!-- decorative waves -->
+  <path class="wave" d="M0 190 C 220 170, 460 210, 900 185 L 900 220 L 0 220 Z" fill="url(#accent-grad)" opacity="0.15" />
+  <path d="M0 200 C 340 180, 560 215, 900 195 L 900 220 L 0 220 Z" fill="url(#accent-grad)" opacity="0.3" />
+
+  <!-- content -->
+  <g transform="translate(48, 42)">
+    <text x="0" y="20" class="subtitle">&gt; Hello World, I'm</text>
+
+    <text x="0" y="62" class="title">Rafly Anggara Putra</text>
+
+    <rect x="0" y="75" width="220" height="4" rx="2" fill="url(#accent-grad)" filter="url(#glow)" />
+
+    <!--
+      BADGE LAYOUT — posisi X dihitung manual: X_next = X_prev + width_prev + 12(gap)
+      Python:      X=105, width=110  -> ends 215
+      JavaScript:  X=227, width=130  -> ends 357
+      Flask:       X=369, width=100  -> ends 469
+      Redis:       X=481, width=100  -> ends 581
+      n8n:         X=593, width=90   -> ends 683
+      "Core focus:" label sits before X=105, width ~86px, ends ~86 -> safe gap of 19px
+    -->
+    <g transform="translate(0, 105)">
+      <text x="0" y="20" class="subtitle" font-size="13">Core focus:</text>
+
+      <!-- Python: X=105 -->
+      <g transform="translate(105, 0)" class="floating">
+        <rect width="110" height="32" rx="8" fill="#1e293b" stroke="#3776AB" stroke-width="1.2" />
+        <g transform="translate(10, 7)">
+          <path d="M9 0.2c-4.6 0-4.3 2-4.3 2v2.1h4.6v.6H2.4S0 4.6 0 9.3s2.1 4.5 2.1 4.5h1.2v-1.9s-.1-2.1 2.1-2.1h3.8s2.1 0 2.1-2.1V2.2S13.6 0.2 9 0.2z" fill="#3776AB"/>
+          <path d="M9.4 17.8c4.6 0 4.3-2 4.3-2v-2.1H9.1v-.6h6.9s2.4 0 2.4-4.7-2.1-4.5-2.1-4.5h-1.2v1.9s.1 2.1-2.1 2.1H9.2s-2.1 0-2.1 2.1v5.4s-.1 2.4 2.3 2.4z" fill="#FFD43B"/>
+        </g>
+        <text x="38" y="21" class="badge-text">Python</text>
+      </g>
+
+      <!-- JavaScript: X=227 (105+110+12) -->
+      <g transform="translate(227, 0)" class="floating-delay">
+        <rect width="130" height="32" rx="8" fill="#1e293b" stroke="#F7DF1E" stroke-width="1.2" />
+        <g transform="translate(10, 7)">
+          <rect width="18" height="18" rx="3" fill="#F7DF1E" />
+          <text x="3.5" y="13" font-family="-apple-system, sans-serif" font-weight="900" font-size="11" fill="#000">JS</text>
+        </g>
+        <text x="36" y="21" class="badge-text">JavaScript</text>
+      </g>
+
+      <!-- Flask: X=369 (227+130+12) -->
+      <g transform="translate(369, 0)" class="floating">
+        <rect width="100" height="32" rx="8" fill="#1e293b" stroke="#f8fafc" stroke-width="1.2" />
+        <g transform="translate(10, 6)">
+          <circle cx="9" cy="9" r="9" fill="#f8fafc"/>
+          <path d="M9 2c-1 2-1.5 3.5-1.5 5s.5 3 1.5 5c1-2 1.5-3.5 1.5-5S10 4 9 2z" fill="#1e293b"/>
+        </g>
+        <text x="34" y="21" class="badge-text">Flask</text>
+      </g>
+
+      <!-- Redis: X=481 (369+100+12) -->
+      <g transform="translate(481, 0)" class="floating-delay">
+        <rect width="100" height="32" rx="8" fill="#1e293b" stroke="#DC382D" stroke-width="1.2" />
+        <g transform="translate(10, 8)">
+          <rect x="0" y="4" width="16" height="4" rx="1.5" fill="#DC382D"/>
+          <rect x="0" y="9" width="16" height="4" rx="1.5" fill="#DC382D" opacity="0.7"/>
+        </g>
+        <text x="34" y="21" class="badge-text">Redis</text>
+      </g>
+
+      <!-- n8n: X=593 (481+100+12) -->
+      <g transform="translate(593, 0)" class="floating">
+        <rect width="90" height="32" rx="8" fill="#1e293b" stroke="#FF6D5B" stroke-width="1.2" />
+        <g transform="translate(10, 7)">
+          <circle cx="3" cy="9" r="3" fill="#FF6D5B"/>
+          <circle cx="15" cy="9" r="3" fill="#FF6D5B"/>
+          <rect x="5" y="8" width="8" height="2" fill="#FF6D5B"/>
+        </g>
+        <text x="30" y="21" class="badge-text">n8n</text>
+      </g>
+    </g>
+  </g>
+</svg>
