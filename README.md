@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-5badges.svg" width="100%" alt="Rafly Anggara Putra banner" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Apewww.Apewww" />
+  <img src="https://raflylabs.com/assets/img/banner.svg" width="100%" alt="Rafly Anggara Putra banner" />
 </div>
 
 ---
