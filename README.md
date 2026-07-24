@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="GitHub Profile Banner" width="100%">
 </p>
 <p align="center">
-  <img src="./assets/banner2.svg" alt="GitHub Profile Banner About Me" width="100%">
+  <img src="./assets/banner2.svg" alt="GitHub Profile Banner About Me" width="100%" style="display: none">
 </p>
 
 ---
