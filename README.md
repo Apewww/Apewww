@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Apewww&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rafly's GitHub Stats" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Apewww&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rafly's GitHub Stats Overall" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Apewww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=Apewww&theme=dark&hide_border=false" alt="Streak" />
 </p>
