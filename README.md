@@ -40,7 +40,7 @@
 - **Portfolio:** [My Porto](https://raflylabs.com/)
 - **Discord:** [Discord Profile](https://discord.com/users/695513585639620629)
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/rafly-anggara-putra/)
-
+- *Instagram::* [My Instagram](https://www.instagram.com/stellochron/)
 ---
 
 <p align="center">
